@@ -1,0 +1,7 @@
+scrapy_venv/
+rcp_venv/
+output/
+data/
+LouisErardScrapingResult.csv
+Notes about venv.txt
+file.txt
