@@ -4,4 +4,6 @@ output/
 data/
 LouisErardScrapingResult.csv
 Notes about venv.txt
-file.txt
+.dockerignore
+scrapy_cro
+slide.txtn_job
